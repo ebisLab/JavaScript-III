@@ -3,8 +3,8 @@
 *
 * 1. Window/Global Binding - overall scope without any other rules/call functions.
 * 2. Implicit Binding - the object before the dot
-* 3. New Binding - when calling a consturctor, this refers to the specific time the object is created and returned
-* 4. Explicit Binding - when this is explicit defined during JS's call/apply method
+* 3. New Binding - when calling a consturctor, this refers to the specific time the new object is created and returned
+* 4. Explicit Binding - when `this` is explicit defined during JS's call/apply method
 *
 * write out a code example of each explanation above
 */
